@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"  width="16px" height ="16px" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300"   style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#231F20;}
+	.st2{fill:#FF0000;}
+	.st3{fill:#FB8538;}
+	.st4{fill:#91D050;}
+	.st5{fill:#FF8F2A;}
+	.st6{fill:#E22024;}
+	.st7{fill:#FF2500;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#006FC0;}
+	.st10{fill:#FFFF01;}
+	.st11{fill:url(#);stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st12{fill:#006FC0;stroke:#231F20;stroke-miterlimit:10;}
+	.st13{fill:#FF29FF;}
+	.st14{opacity:0.24;fill:none;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st15{fill:#D0CECE;}
+	.st16{fill:#02A0E3;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-257696432" y="-257698816" width="515396064" height="515396064"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+</g>
+<g>
+	<circle class="st16" cx="150" cy="161.58" r="89.53"/>
+	<path class="st1" d="M150,256.44c-52.31,0-94.87-42.56-94.87-94.86S97.69,66.72,150,66.72c52.31,0,94.86,42.56,94.86,94.86
+		S202.31,256.44,150,256.44z M150,77.39c-46.43,0-84.2,37.77-84.2,84.2s37.77,84.2,84.2,84.2c46.43,0,84.2-37.77,84.2-84.2
+		S196.43,77.39,150,77.39z"/>
+	<g>
+		<rect x="124.87" y="136.36" class="st1" width="44.59" height="83.4"/>
+		<g>
+			<rect x="125.97" y="99.93" class="st16" width="42.04" height="36.42"/>
+			<path class="st1" d="M169.35,137.69h-44.71V98.6h44.71V137.69z M127.31,135.03h39.37v-33.76h-39.37V135.03z"/>
+		</g>
+		<rect x="109.89" y="217.26" class="st1" width="74.55" height="3.4"/>
+	</g>
+	<path class="st1" d="M201.53,193.25c-5.9-32.81-11.05-41.75-23.28-50.95l-1.04-24.67l-2.67,0.05v0.03l-2.54,0.04v-3.81h-3.35v17.47
+		h5.82l-0.05,10.36l-7.67,0.11v3.15h8.44l-0.08,54.11c0,0-0.45,2.49,0.99,3.94c7.27,7.27,10.12,8.42,15.99,8.42
+		c1.52,0,2.96-0.26,4.27-0.83C199.87,209.14,203.61,204.87,201.53,193.25z M195.29,208.23c-4.95,2.15-13.31-1.81-17.19-6.64
+		l-0.24-56.23c10.75,8.45,15.51,17.57,21.05,48.35C199.89,199.19,200.06,206.15,195.29,208.23z"/>
+</g>
+</svg>
